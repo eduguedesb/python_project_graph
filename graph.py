@@ -9,7 +9,7 @@ from PIL import Image, ImageChops
 from io import BytesIO
 
 # Configurar o caminho para o driver do Chrome
-chrome_driver_path = r'C:\\Users\\WebGlobal28\\.wdm\\drivers\\chromedriver\\win64\\129.0.6668.100\\chromedriver-win32\\chromedriver.exe'
+chrome_driver_path = r'C:\\Users\\WebGlobal28\\.wdm\\drivers\\chromedriver\\win64\\131.0.6778.85\\chromedriver-win32\\chromedriver.exe'
 
 # Configurar as opções do Chrome
 chrome_options = Options()
