@@ -28,11 +28,7 @@ Processamento de arquivos: Itera sobre subpastas contendo arquivos HTML, abrindo
 Recorte da imagem: Após capturar o gráfico, a imagem é processada para remover bordas indesejadas, e então é salva no formato PNG.
 
 # Dependências:
-selenium: biblioteca popular de automação de navegadores da web. Ela permite que você controle e interaja programaticamente com navegadores como Chrome, Firefox, Edge, e outros.
-<br>
-webdriver-manager: biblioteca Python que facilita o gerenciamento de drivers para navegadores ao usar o Selenium. Ele automatiza o processo de download, configuração e atualização dos WebDrivers necessários, como o chromedriver (para o Google Chrome), geckodriver (para o Firefox), msedgedriver (para o Microsoft Edge), entre outros.
-<br>
-Tradicionalmente, para usar Selenium, você precisa baixar manualmente o WebDriver correspondente à versão do navegador e configurar o caminho no sistema ou no código. O webdriver-manager elimina essa etapa, baixando e configurando automaticamente o driver apropriado.
+Dependências listadas no arquivo "requirements.txt".
 
 # Como Usar:
 driver.py: se precisar instalar ou configurar o chromedriver, execute o script com o seguinte comando: py driver.py ou python driver.py.
